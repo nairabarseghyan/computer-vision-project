@@ -28,7 +28,7 @@ project/
 
 Install the code to your local environement.
 ```bash
-git clone ---
+git clone https://github.com/nairabarseghyan/computer-vision-project.git
 ```
 
 It is recomended to use virtual environment with python3.9.
