@@ -47,7 +47,7 @@ Install requirements.
 pip install -r requirements.txt
 ```
 
-## Uasge Guide
+## Usage Guide
 To train the model run train.py. Model trains on mnist dataset.
 
 ```bash
