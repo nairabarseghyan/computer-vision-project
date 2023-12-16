@@ -11,6 +11,7 @@ This project is designed to create a model for hand written digit recognition. W
 
 
 ## Code Structure
+```bash
 project/
     |-- Code/
     |   |-- dataset.py
@@ -23,6 +24,7 @@ project/
     |   |-- test/
     |-- README.md
     |-- requirements.txt
+```
 
 ## Installation Guide
 
