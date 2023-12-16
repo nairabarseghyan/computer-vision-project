@@ -1,6 +1,7 @@
 # Handwritten Digit Recognition 
-Project for the course CS319 Computer Vision, American University of Armenia
-Professor: Arman Chopikyan
+Project for the course CS319 Computer Vision, American University of Armenia__
+
+Professor: Arman Chopikyan__
 Contributors: 
 - Anna Charchyan
 - Zaruhi Poghosyan
